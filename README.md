@@ -1,19 +1,54 @@
-<h1 align="center">Hi 👋, I'm Suyog Pipliwal</h1>
-<h3 align="center">A passionaHighly skilled and dedicated Research Assistant with a strong background in deep learning and a proven track record of contributing to cutting-edge research projects at the university level. Seeking to transition into a challenging role as a AI Engineer, where I can apply my expertise in algorithm development, neural network architectures, and data analysis to create innovative AI solutions that address real-world challenges. Excited to collaborate with a diverse team of experts and industry professionals to push the boundaries of AI technologyte frontend developer from India</h3>
+## About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suyog-pipliwal&label=Profile%20views&color=0e75b6&style=flat" alt="suyog-pipliwal" /> </p>
+Hello there! I'm Suyog Pipliwal, a passionate and curious individual with a strong background in Machine learning and Computer Science. Currently, I serve as a Research Assistant at Queen Mary University of London, where I actively contribute to cutting-edge projects in the realm of NLP, human-computer intersection and cognitive science.
 
-- 🔭 I’m currently working as **Research Assistant at Queen Mary University of London**
+My journey in AI began during my undergraduate studies, where I was captivated by the immense potential of it  to transform the way we live and work. As a Research Assistant, I have had the privilege of working with leading experts in the field, collaborating on exciting research endeavors that address challenges in dialouge systems, human-computer intersection, Multimodal machine learning algorithms etc.
 
-- 📫 How to reach me **suyogpipliwal@gmail.com**
+- 🔭 I'm currently working on  to explore novel ideas and push the boundaries of <your research area>.
+- 🌱 I'm committed to continuous learning and strive to stay at the forefront of advancements in <your areas of interest>. I enjoy attending conferences and workshops to deepen my knowledge and broaden my perspectives.
+- 👯 I'm passionate about sharing knowledge and supporting the community. I actively participate in technical meetups and mentor aspiring developers to help them embark on their own journeys in <your field>.
+- 🏆 In my time as a Research Assistant, I've been honored to receive recognition for <mention any awards, achievements, or publications>.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suyogpipliwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suyogpipliwal/" height="30" width="40" /></a>
-</p>
+When I'm not immersed in research and coding, you can find me <mention some hobbies or interests outside of your academic/professional life>. I find that these activities not only provide balance but also fuel my creativity and problem-solving abilities in my work.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyog-pipliwal&show_icons=true&locale=en&layout=compact" alt="suyog-pipliwal" /></p>
+Here are some of the exciting projects you'll find in my repositories:
+
+1. **Project Name**: Brief description of the project.
+   - Tech Stack: List the technologies and programming languages used.
+   - [Link to Project](link-to-the-project-repository)
+
+2. **Project Name**: Brief description of the project.
+   - Tech Stack: List the technologies and programming languages used.
+   - [Link to Project](link-to-the-project-repository)
+
+3. ...
+
+Feel free to explore the repositories to learn more about each project. Don't forget to leave a ⭐️ if you find anything interesting!
+
+## Contributions
+
+I'm a proud open-source contributor and believe in giving back to the community. You can find my contributions in various projects and repositories. I'm always on the lookout for exciting projects to contribute to, so let me know if you have any suggestions!
+
+## Connect with Me
+
+Connect with me on different platforms to stay updated with my work and exciting developments:
+
+- GitHub: [github.com/<your-username>](https://github.com/<your-username>)
+- LinkedIn: [linkedin.com/in/<your-linkedin-profile>](https://www.linkedin.com/in/<your-linkedin-profile>)
+- Twitter: [twitter.com/<your-twitter-handle>](https://twitter.com/<your-twitter-handle>)
+- Personal Website/Blog: [yourwebsite.com](https://yourwebsite.com)
+
+Feel free to reach out to me through any of these platforms. I'm always eager to connect with fellow developers and enthusiasts!
+
+## Final Words
+
+Thank you for stopping by and exploring my GitHub profile. I hope you find something interesting that inspires you or helps you in your own projects. If you have any questions, suggestions, or simply want to say hi, don't hesitate to reach out. Happy coding! 👩‍💻🚀
+
+_"Your favorite coding quote here."_
+
+**<Your Name>**
+
+_Research Assistant at <Your University/Institution>_
 
