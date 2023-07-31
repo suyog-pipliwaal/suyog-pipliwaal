@@ -14,14 +14,10 @@ When I'm not immersed in research and coding, you can find me playing DOTA2 or l
 Here are some of the exciting projects you'll find in my repositories:
 
 1. **Machinehack Hackathon**: I take parts in hackathons on [Machine Hack](https://machinehack.com).This repo contains the solution for all the competition I have taken part. 
-   - Tech Stack: List the technologies and programming languages used.
    - [Link to Project](https://github.com/suyog-pipliwaal/Machine-hack-Hackathon)
 
 2. **Frozen Lake**: In this project, we have implemented various RL algorithms for the given environment. We expirenmented with Frozen lake enviroment to find the optimal policies using tabular and non tabular menthods.
-   - Tech Stack: List the technologies and programming languages used.
    - [Link to Project](https://github.com/suyog-pipliwaal/RL-experimentation)
-
-3. ...
 
 Feel free to explore the repositories to learn more about each project. Don't forget to leave a ⭐️ if you find anything interesting!
 
