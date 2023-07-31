@@ -7,7 +7,7 @@ My journey in AI began during my undergraduate studies, where I was captivated b
 - 🔭 I'm currently working on  to explore novel ideas and push the boundaries of MultiModel learning algorithms
 - 👯 I'm passionate about sharing knowledge and supporting the community. I actively participate in machine learning Machine learning hackathons. 
 
-When I'm not immersed in research and coding, you can find me playing DOTA2 or letting weights in gym. I find that these activities not only provide balance but also fuel my creativity and problem-solving abilities in my work.
+When I'm not immersed in research and coding, you can find me playing DOTA2 or lifting weights. I find that these activities not only provide balance but also fuel my creativity and problem-solving abilities in my work.
 
 ## Projects
 
